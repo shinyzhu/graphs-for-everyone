@@ -14,7 +14,7 @@
 
 ## 如何参与
 
-我们跟CSDN合作发布了完整的[Neo4j技能树](https://bbs.csdn.net/skill/neo4j)，包含CSDN站内的优质内容和问答内容测验，欢迎点击这里前往开始学习。
+我们跟CSDN合作发布了完整的[Neo4j技能树](https://bbs.csdn.net/skill/neo4j)，包含CSDN站内的优质内容和问答内容测验，欢迎前往开始学习。
 
 本课程会设计课后内容测验，包含问答和代码测试，也会设计一些GitHub的流程，敬请期待。
 
