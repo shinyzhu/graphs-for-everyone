@@ -1,4 +1,4 @@
-# Neo4j 技能树正式发布，助你轻松掌握Neo4j图数据库
+# CSDN Neo4j 技能树正式发布，助你轻松掌握Neo4j图数据库
 
 在CSDN的技能森林中，有一棵新的技能树已经上线，它就是Neo4j技能树。
 
@@ -12,7 +12,7 @@
 
 在这篇博客中，将为你简单介绍Neo4j技能树的结构，如何开始学习，获得反馈渠道，以及如何参与贡献。
 
-现在点击<https://bbs.csdn.net/skill/neo4j>就能打开Neo4j技能树了。
+现在点击 <https://bbs.csdn.net/skill/neo4j> 就能打开Neo4j技能树了。
 
 ## Neo4j 知识点结构
 
