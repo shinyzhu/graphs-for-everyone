@@ -21,7 +21,7 @@
 ## 课程目录
 
 0. [CSDN Neo4j技能树正式发布，助你轻松掌握Neo4j](https://blog.csdn.net/neo4jdev/article/details/122581414)
-1. 回顾数据库历史，了解图数据库的过去和未来
+1. 从数据库历史和分类说起，一文了解图数据库的过去和未来
    1. [part 1](./posts/2022-02/database-categories-know-graph.md)
 
 2. 图数据库的本质：什么是图（数据结构）
