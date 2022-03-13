@@ -20,10 +20,11 @@
 
 ## 课程目录
 
-0. [CSDN Neo4j技能树正式发布，助你轻松掌握Neo4j](https://blog.csdn.net/neo4jdev/article/details/122581414)
+0. [CSDN Neo4j技能树正式发布，助你轻松掌握Neo4j](https://blog.csdn.net/neo4jdev/article/details/122581414)：[已发布](https://blog.csdn.net/neo4jdev/article/details/122581414?spm=1001.2014.3001.5501)。
 1. 从数据库历史和分类说起，一文了解图数据库的过去和未来
-   1. [part 1](./posts/2022-02/database-categories-know-graph.md)
-
+   1. [CSDN 版本](./posts/2022-02/database-categories-know-graph.md)：[已发布](https://blog.csdn.net/neo4jdev/article/details/122948860)。
+   1. [Full version](./posts/2022-03/database-history-to-graphdatabase.md)
+   
 2. 图数据库的本质：什么是图（数据结构）
 3. 哪些问题可以用图技术解决？图的应用场景之一：关系数据库的`JOIN`有什么问题？
 4. 哪些问题可以用图技术解决？图的应用场景之二：如何寻找数据间的模式、路径、隐藏联系？
