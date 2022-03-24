@@ -30,6 +30,8 @@ Neo4j AuraDB是今年刚正式推出的云端全托管零运维的Neo4j数据平
 
 ## TL;DR, 直接告诉我用什么吧！
 
+### Neo4j AuraDB
+
 → 当然是 Neo4j AuraDB，注册链接在这里：[https://neo4j.com/cloud/aura/](https://neo4j.com/cloud/aura/?ref=shiny-graphs4everyone-dist)
 
 ![choose-neo4j-dist-2](how-to-choose-the-correct-neo4j-dist/choose-neo4j-dist-2.png)
@@ -70,7 +72,7 @@ Neo4j Desktop是我一直打开的程序，因为，它还可以连接到Neo4j A
 
 ### Neo4j 企业版
 
-Neo4j 企业版也是基于开源社区版的产品，但是多了一系列用于生产环境的功能，还有强大的技术支持（购买之后）。有购买意向的现在联系我吧。
+Neo4j 企业版也是基于开源社区版的产品，但是多了一系列用于生产环境的功能，还有强大的技术支持（购买之后）。大V已经在他们公司多个核心业务上部署了Neo4j企业版，如有购买意向的现在联系我吧。
 
 ![choose-neo4j-dist-6](how-to-choose-the-correct-neo4j-dist/choose-neo4j-dist-6.png)
 
