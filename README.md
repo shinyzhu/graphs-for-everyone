@@ -18,7 +18,7 @@
 
 本课程会设计课后内容测验，包含问答和代码测试，也会设计一些GitHub的流程，敬请期待。
 
-## 课程目录
+## 内容目录
 
 0. [CSDN Neo4j技能树正式发布，助你轻松掌握Neo4j](https://blog.csdn.net/neo4jdev/article/details/122581414)：[已发布](https://blog.csdn.net/neo4jdev/article/details/122581414?spm=1001.2014.3001.5501)。
 1. 从数据库历史和分类说起，一文了解图数据库的过去和未来
@@ -31,11 +31,26 @@
 5. 哪些问题可以用图技术解决？图的应用场景之三：如何更好地处理多对多数据关系？
 6. 哪些问题可以用图技术解决？图的应用场景之四：多层级导航和搜索的问题？
 7. Neo4j简介：Neo4j的发展历程，为什么我推荐你使用Neo4j？
-8. [如何选择合适的Neo4j版本？](./posts/2022-03/how-to-choose-the-correct-neo4j-dist.md)
-9. Neo4j安装和使用（2022版）：如何轻松安装和配置最新版本Neo4j实现第一个图数据查询？
-10. Neo4j查询语言Cypher入门，实现数据的增删改查
-11. 图数据建模，设计属于你自己的图数据领域模型
-12. Neo4j数据导入指南，是时候展示真正的实力了
+8. Neo4j安装和使用（2022版）：如何轻松安装和配置最新版本Neo4j实现第一个图数据查询？
+9. Neo4j查询语言Cypher入门，实现数据的增删改查
+10. 图数据建模，设计属于你自己的图数据领域模型
+11. Neo4j数据导入指南，是时候展示真正的实力了
+
+## 系列内容
+
+在写文章的时候，发现自己无法严格按照上面的列表来写，期间写了一些其他系列的内容，主要来自社区的一些问题解答和反馈，也整理到这里。
+
+1. [如何选择合适的 Neo4j 版本](posts/2022-03/how-to-choose-the-correct-neo4j-dist.md)
+2. [Neo4j 社区参与指南](posts/2022-03/neo4j-community-guide.md)
+3. [1 分钟学会图思考（Graph Thinking）](posts/2022-03/graph-thinking-by-2-tools-in-1-min.md)
+4. [Neo4j 不仅是数据库，而且是统一的图数据平台](posts/2022-03/neo4j-database-to-data-platform.md)
+5. [Neo4j 4.x 版本历史更新一览](posts/2022-03/whats-new-neo4j-v4-vs-v3.md)
+6. [手把手快速上手 Neo4j Desktop 的安装和使用](posts/2022-04/quick-start-env-neo4j-desktop.md)
+7. [手把手快速上手 Neo4j AuraDB 免费版](posts/2022-04/quick-start-neo4j-auradb-free.md)
+8. [小技巧：如何更新已经存在的关系类型？](posts/2022-04/tips-tricks-update-relationship-type.md)
+9. [手把手快速上手 - 在 Windows 上安装 Neo4j 社区版](posts/2022-04/quick-start-neo4j-ce-windows.md)
+10. [手把手快速上手 使用 Docker 运行 Neo4j](posts/2022-04/quick-start-neo4j-docker.md)
+11. [手把手快速上手 Neo4j Sandbox](posts/2022-04/quick-start-neo4j-sandbox.md)
 
 ## 学成之日
 
